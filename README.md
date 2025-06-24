@@ -37,9 +37,3 @@
 - sklearn
 
 ---
-
-## 🚀 실행 방법
-
-1. 패키지 설치:
-```bash
-pip install -r requirements.txt
